@@ -1,0 +1,28 @@
+_repo: A-History-of-Trade-Unionism-in-the-United-States_14458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perlman, Selig
+    birthdate: 1888
+    deathdate: 1959
+    gutenberg_agent_id: '5527'
+    url: http://www.gutenberg.org/2009/agents/5527
+    wikipedia: http://en.wikipedia.org/wiki/Selig_Perlman
+description: ''
+gutenberg_issued: '2004-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14458'
+  lccn: '22020181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor unions -- United States -- History'
+- !lcc 'HD'
+title: A History of Trade Unionism in the United States
+url: http://www.gutenberg.org/ebooks/14458
